@@ -6,3 +6,5 @@ To install any script here are the steps:
 2. Press windows + r, type %appdata% and hit enter
 3. Navigate to YimMenuV2 > scripts
 4. Cut/copy paste the downloaded lua file in the scripts folder
+
+*Custom cayo script sets up so that you get all gold in the compound and 4 cocaine in the hangar, for people wanting their setup to look more realistic (isn't going to reduce ban chances)
