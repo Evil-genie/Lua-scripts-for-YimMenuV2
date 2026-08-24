@@ -10,6 +10,7 @@ To install any script here are the steps:
 *Custom cayo script sets up so that you get all gold in the compound and 4 cocaine in the hangar, for people wanting their setup to look more realistic (isn't going to reduce ban chances)
  
  Credits:
+ 
  Contract: [DanzaGTA](https://www.reddit.com/r/YimMenuV2/)
  
  All other scripts: [ImagineNothing](https://www.unknowncheats.me/forum/4539651-post233.html)
