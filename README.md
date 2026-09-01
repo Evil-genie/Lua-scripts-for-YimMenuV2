@@ -15,4 +15,4 @@ To install any script here are the steps:
  
  All other scripts: [ImagineNothing](https://www.unknowncheats.me/forum/4539651-post233.html) and some other unknowncheats users (Do let me know if your script is in here)
 
-K/D: PETROZ (The GOAT)
+Other useful lua scripts (Enhanced only): [xxpetrozxx](https://github.com/xxpetrozxx/Lua-YimmenuV2-Enhanced-Only)
